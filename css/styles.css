@@ -1,0 +1,9 @@
+#alpha { 
+    color: purple;
+    text-center;
+    background-color: #6610f2;
+ }
+.beta {
+  color: $yellow-300;
+  background-color: $indigo-900;
+}
